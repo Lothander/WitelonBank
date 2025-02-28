@@ -9,7 +9,7 @@
 ## Lista funkcjonalności
 | OPZ    | Funkcjonalność                                                                                                          | API | web | mobile | desktop |
 |--------|-------------------------------------------------------------------------------------------------------------------------|-----|-----|--------|---------|
-| WBK-01 | Administrator może logować się do systemu.                                                                              | ✓   |     |        |         |
+| WBK-01 | Administrator może logować się do systemu.                                                                              |     |     |        | ✓       |
 | WBK-02 | Administrator może zarządzać kontami użytkowników (blokowanie, odblokowywanie, limity).                                 | *   |     |        | ✓       |
 | WBK-03 | Administrator może monitorować transakcje w systemie.                                                                   | *   |     |        | ✓       |
 | WBK-04 | Administrator może generować raporty finansowe.                                                                         | *   |     |        | ✓       |
