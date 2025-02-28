@@ -22,7 +22,7 @@
 | WBK-11 | Użytkownik może wykonywać przelewy.                                                                                     | *   | ✓   | ✓      |         |
 | WBK-12 | Użytkownik może zarządzać swoimi kartami płatniczymi (blokowanie, zmiana limitów).                                      | *   | ✓   | ✓      |         |
 | WBK-13 | Użytkownik może skonfigurować płatności cykliczne.                                                                      | *   | ✓   | ✓      |         |
-| WBK-14 | Użytkownik otrzymuje powiadomienia o transakcjach na e-mail/SMS/push.                                                   | *   | ✓   | ✓      |         |
+| WBK-14 | Użytkownik otrzymuje powiadomienia o transakcjach na e-mail/push.                                                       | *   | ✓   | ✓      |         |
 | WBK-15 | Użytkownik może dodać odbiorców do listy zapisanych przelewów.                                                          | *   | ✓   | ✓      | ✓       |
 | WBK-16 | Użytkownik może eksportować historię transakcji.                                                                        | *   | ✓   | ✓      | ✓       |
 | WBK-17 | Użytkownik może zamknąć konto.                                                                                          | *   | ✓   |        |         |
