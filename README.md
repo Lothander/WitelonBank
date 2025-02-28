@@ -24,8 +24,7 @@
 | WBK-13 | Użytkownik może skonfigurować płatności cykliczne.                                                                      | *   | ✓   | ✓      |         |
 | WBK-14 | Użytkownik otrzymuje powiadomienia o transakcjach na e-mail/SMS/push.                                                   | *   | ✓   | ✓      |         |
 | WBK-15 | Użytkownik może dodać odbiorców do listy zapisanych przelewów.                                                          | *   | ✓   | ✓      | ✓       |
-| WBK-16 | Użytkownik może dodawać innych użytkowników do listy znajomych.                                                         | *   | ✓   | ✓      |         |
-| WBK-17 | Użytkownik widzi feed z aktywnościami znajomych.                                                                        | *   | ✓   | ✓      |         |
-| WBK-18 | Użytkownik może eksportować swoje dane.                                                                                 | *   | ✓   |        |         |
-| WBK-19 | Użytkownik może się wylogować.                                                                                          |     | ✓   | ✓      | ✓       |
-| WBK-20 | System obsługuje język polski, angielski i niemiecki.                                                                   | *   | ✓   | ✓      | ✓       |
+| WBK-16 | Użytkownik może eksportować historię transakcji.                                                                        | *   | ✓   | ✓      | ✓       |
+| WBK-17 | Użytkownik może zamknąć konto.                                                                                          | *   | ✓   |        |         |
+| WBK-18 | Użytkownik może się wylogować.                                                                                          |     | ✓   | ✓      | ✓       |
+| WBK-19 | System obsługuje język polski, angielski i niemiecki.                                                                   | *   | ✓   | ✓      | ✓       |
