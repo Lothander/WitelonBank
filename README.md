@@ -1,10 +1,10 @@
 # WitelonBank - Aplikacja bankowa
 
 ## Lista części systemu
-- REST API napisane w technologiach PHP + Laravel, MySQL )
+- REST API napisane w technologiach PHP + Laravel, MySQL ) @Jaktaktonie
 - aplikacja webowa napisana w technologiach TypeScript + Vue.js
-- aplikacja mobilna napisana w technologiach Dart + Flutter
-- aplikacja desktopowa napisana w technologii Java FX
+- aplikacja mobilna napisana w technologiach Dart + Flutter @Lothander
+- aplikacja desktopowa napisana w technologii Java FX @KRacz0 
 
 ## Lista funkcjonalności
 | OPZ    | Funkcjonalność                                                                                                          | API | web | mobile | desktop |
