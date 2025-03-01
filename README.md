@@ -15,7 +15,7 @@
 | WBK-04 | Administrator może generować raporty finansowe.                                                                         | *   |     |        | ✓       |
 | WBK-05 | Administrator widzi statystyki systemowe.                                                                               | *   |     |        | ✓       |
 | WBK-06 | Użytkownik może inwestować środki (cryptowaluty).                                                                       | *   |     |        | ✓       |
-| WBK-07 | Użytkownik może logować się do swojego konta.                                                                           | *   | ✓   |        |         |
+| WBK-07 | Użytkownik może logować się do swojego konta.                                                                           | *   | ✓   | ✓      |  ✓      |
 | WBK-8 | Użytkownik może zresetować swoje hasło.                                                                                  | *   | ✓   | ✓      |         |
 | WBK-9 | Użytkownik może sprawdzać saldo konta.                                                                                   | *   | ✓   | ✓      | ✓      |
 | WBK-10 | Użytkownik może przeglądać historię transakcji.                                                                         | *   | ✓   | ✓      | ✓       |
